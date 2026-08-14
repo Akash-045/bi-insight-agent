@@ -1,0 +1,4 @@
+Metric,Manual - Control,Manual - Test,Direction Found by Agent,Matches Manual?
+Completion Rate,0.6558,0.6929,Test higher,Yes
+Duration (sec),293.76,328.36,Test higher (longer),Yes
+Backward Navigation Rate,0.2609,0.3341,Test higher (more backtracking),Yes
