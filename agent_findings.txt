@@ -1,0 +1,15 @@
+I'd be happy to help analyze these test results, but I don't see the actual data in your message. The section after "Here is the data:" appears to be empty.
+
+Could you please paste the statistical test results? I'm looking for data that shows:
+- **Completion rate** (Test vs Control)
+- **Average process duration** (Test vs Control)
+- **Backward navigation rate** (Test vs Control)
+- Broken down by different segments
+
+Once you provide the data, I'll analyze it with special attention to:
+
+1. ✓ Filtering out unreliable results (100%, 0%, or missing comparisons)
+2. ✓ Describing patterns without recommending demographic targeting
+3. ✓ **Most importantly:** Identifying whether completion rate gains come at the cost of increased duration or backward navigation
+
+Please share the data and I'll provide the analysis!
